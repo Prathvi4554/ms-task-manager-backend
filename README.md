@@ -23,6 +23,6 @@ Installation
 
 Clone the repository
 
-bash
-git clone https://github.com/Prathvi4554/ms-task-manager-backend.git
-cd ms-task-manager-backend
+  bash
+- git clone https://github.com/Prathvi4554/ms-task-manager-backend.git
+- cd ms-task-manager-backend
