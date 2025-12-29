@@ -3,8 +3,6 @@ Task Manager – Backend (Node.js + Koa + MySQL)
 This is the backend API for the **Task Manager** application.  
 It provides user authentication and CRUD operations for tasks.
 
----
-
 Features
 
 - User registration & login  
@@ -13,8 +11,6 @@ Features
 - MySQL database integration  
 - Password hashing (bcrypt)   
 
----
-
 Tech Stack
 
 -  Node.js
@@ -22,8 +18,6 @@ Tech Stack
 -  MongoDB
 -  JWT
 -  bcrypt
-
----
 
 Installation
 
