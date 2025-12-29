@@ -23,6 +23,9 @@ Installation
 
 Clone the repository
 
-  bash
+   bash
 - git clone https://github.com/Prathvi4554/ms-task-manager-backend.git
 - cd ms-task-manager-backend
+
+Install dependencies
+  npm install
